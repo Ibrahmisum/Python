@@ -1,0 +1,7 @@
+Line 1: This is some text.
+Line 2: Here are some numbers: 10, 20, 30.
+Line 3: And a mix of both!
+
+Line 4: Appending more text.
+Line 5: This is some additional content.
+Line 6: The file has been modified.
